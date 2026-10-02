@@ -1,5 +1,5 @@
 ﻿> Fonte: https://legislacao.sef.sc.gov.br/HTML/REGULAMENTOS/ICMS/RICMS_01_10.htm
-> Baixado em: 24/09/2026 21:17
+> Baixado em: 02/10/2026 12:55
 
 ---
 
