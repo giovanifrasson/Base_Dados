@@ -1,5 +1,5 @@
 ﻿> Fonte: https://legislacao.sef.sc.gov.br/HTML/REGULAMENTOS/ICMS/RICMS_01_11.htm
-> Baixado em: 02/10/2026 12:55
+> Baixado em: 26/10/2026 08:33
 
 ---
 
@@ -401,7 +401,7 @@ Art. 9º-K. Nas operações interestaduais, é obrigatório o uso da NFP-e, deve
 
 Art. 9º-L. A NFP-e será disponibilizada gratuitamente no SAT para produtores primários inscritos no CPP, mediante a utilização de login e senha.
 
-Parágrafo único. Fica autorizada a utilização de aplicativo próprio pelo produtor primário, desde que previamente solicitado por meio do aplicativo denominado Tratamento Tributário Diferenciado (TTD), disponível na página da Secretaria de Estado da Fazenda na internet.
+Parágrafo único. Fica autorizada a utilização de aplicativo próprio pelo produtor primário, desde que credenciado pela SEF nos termos do art. 2º deste Anexo, não se aplicando o disposto nos incisos II e III do § 5º e no § 8º do mencionado artigo.
 
 Art. 9º-M. No recebimento de mercadorias remetidas a qualquer título por produtores primários inscritos no CPP, o contribuinte inscrito no CCICMS deste Estado deverá:
 
@@ -2218,7 +2218,7 @@ Art. 23-A. Nas saídas internas com destino à administração pública direta o
 
 Parágrafo único. Nas saídas decorrentes de processos licitatórios, em quaisquer modalidades, ou nas hipóteses de dispensa ou inexigibilidade de licitação, excetuado o disposto no caput, obrigatoriamente deverá ser utilizada a Nota Fiscal Eletrônica - NF-e para acobertar a operação correspondente.
 
-Art. 23-B. Na hipótese de erro identificado na NF-e, quando não permitida a emissão de documento fiscal complementar ou de carta de correção eletrônica, em operação interna ou interestadual, o remetente poderá efetuar os procedimentos previstos neste artigo em até 168 (cento e sessenta e oito) horas do ato da entrega (Ajuste SINIEF 13/24).
+Art. 23-B. Na hipótese de erro identificado na NF-e, no ato da entrega, quando não permitida a emissão de nota fiscal complementar, de nota de crédito do tipo “Redução de valores” ou de CC-e, em operação interna ou interestadual, o remetente poderá efetuar os procedimentos de correção estabelecidos neste artigo em até 168 (cento e sessenta e oito) horas do ato da entrega, desde que não ocorra circulação de mercadoria decorrente dessa correção. (Ajustes SINIEF 13/24 e 6/26).
 
 § 1º Para fins de anulação da operação de saída original, deve ser emitida NF-e de devolução simbólica, observado o disposto no § 2º deste artigo e o seguinte:
 
@@ -2240,7 +2240,7 @@ d) no campo “refNFe - Chave de acesso da NF-e referenciada”, a chave de aces
 
 III – na hipótese da alínea “b” do inciso I deste parágrafo, o destinatário contribuinte deverá realizar o registro do evento “Operação não Realizada” na NF-e original de saída, conforme disposto no inciso VI do § 1º do art. 18-A deste Anexo.
 
-§ 2º Para correção da operação de saída original, o remetente deverá emitir NF-e de saída com as informações corrigidas, observado o seguinte:
+§ 2º Para correção da NF-e de saída original, o remetente deverá emitir NF-e de saída, com as informações corrigidas, observado o seguinte:
 
 I – atendidos os demais requisitos previstos neste Regulamento, a NF-e de que trata este parágrafo deverá conter:
 
@@ -2252,7 +2252,13 @@ c) no campo “refNFe - Chave de acesso da NF-e referenciada”, as chaves de ac
 
 II – o destinatário contribuinte deverá realizar o registro do evento “Confirmação da Operação” na NF-e de que trata este parágrafo, conforme disposto no inciso V do § 1º do art. 18-A deste Anexo.
 
-§ 3º O disposto neste artigo não se aplica às devoluções simbólicas parciais.
+§ 3º O disposto neste artigo não se aplica às:
+
+I – devoluções simbólicas parciais; e
+
+II – correções que alterem o CNPJ base do destinatário. (Ajuste SINIEF 15/25).
+
+§ 4º Na hipótese de alteração de valores ou quantidades, deve ser utilizada nota fiscal complementar ou nota de crédito do tipo “Redução de valores”, nos termos do art. 23-C deste Anexo, conforme o caso.
 
 Art. 23-C. Na hipótese de redução de valores ou quantidades, quando não for possível realizar o cancelamento da NF-e de saída, o remetente deverá emitir NF-e de entrada, contendo, além dos demais requisitos exigidos (Ajuste SINIEF 49/25):
 

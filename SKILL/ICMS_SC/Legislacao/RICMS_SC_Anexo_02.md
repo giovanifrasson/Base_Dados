@@ -1,5 +1,5 @@
 ﻿> Fonte: https://legislacao.sef.sc.gov.br/HTML/REGULAMENTOS/ICMS/RICMS_01_02.htm
-> Baixado em: 02/10/2026 12:55
+> Baixado em: 26/10/2026 08:33
 
 ---
 
@@ -17,7 +17,7 @@ II – enquanto vigorar o Convênio ICMS 147/92, a saída de mexilhão, marisco,
 
 > **Nota:**
 
-> II - Prorrogado pelo Convênio ICMS 226/23, até 30.04.26.
+> II - Prorrogado pelo Convênio ICMS 12/26, até 31.12.26.
 
 III - a saída de veículos, quando adquiridos pela Secretaria de Segurança Pública através do Programa de Reequipamento Policial da Polícia Militar ou pela Secretaria de Estado da Fazenda, para reequipamento da fiscalização estadual, dispensado o estorno de crédito de que trata o art. 36, I e II do Regulamento (Convênios ICMS 34/92 e 56/00);
 
@@ -955,7 +955,7 @@ XV – enquanto vigorar o Convênio ICMS 24/89, a entrada de mercadorias a serem
 
 > **Nota:**
 
-> XV - Prorrogado pelo Convênio ICMS 226/23, até 30.04.26.
+> XVI - Prorrogado pelo Convênio ICMS 021/26, até 31.12.26.
 
 XVI – enquanto vigorar o Convênio ICMS 41/91, o recebimento dos produtos relacionados no Anexo 1, Seção XXXIX, sem similar nacional, importados do exterior diretamente pela Associação de Pais e Amigos dos Excepcionais (APAE);
 
@@ -1617,6 +1617,10 @@ XI - REVOGADO.
 
 XII – de forma que resulte em tributação de 7% (sete por cento) no desembaraço aduaneiro de bens e mercadorias provenientes, por via terrestre, do Paraguai, realizado em Recinto Alfandegado da Delegacia da Receita Federal do Brasil em Foz do Iguaçu/PR, importados por microempresas optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte – SIMPLES NACIONAL, previamente habilitadas a operar no Regime de Tributação Unificada (RTU), a que se refere a Lei Federal nº 11.898, de 8 de janeiro de 2009, regulamentada pelo Decreto Federal nº 6.956, de 9 de setembro de 2009, desde que o recolhimento do imposto devido seja realizado em conjunto com os tributos devidos à União, por intermédio de Documento de Arrecadação de Receitas Federais (DARF), emitido eletronicamente pelo sistema RTU, desenvolvido pela Receita Federal do Brasil (Convênio ICMS 61/12).
 
+> **Nota:**
+
+> XII - Prorrogado pelo Convênio ICMS 021/26, até 31.12.26.
+
 XIII – de forma a resultar em carga tributária efetiva equivalente a 6,8% (seis inteiros e oito décimos por cento) sem manutenção dos créditos fiscais previstos na legislação ou, alternativamente, de forma a resultar em carga tributária efetiva equivalente a 11,05% (onze inteiros e cinco centésimos por cento) com manutenção dos créditos fiscais previstos na legislação, nas saídas dos produtos destinados ao tratamento e controle de efluentes industriais e domésticos, mediante o emprego de tecnologia de aceleração da biodegradação, relacionados no Anexo 1, Seção LV, observado também o seguinte (Convênio ICMS 08/11):
 
 a) o benefício somente se aplica aos produtos oriundos de empresas licenciadas pelos órgãos estaduais competentes;
@@ -1725,7 +1729,7 @@ VI – enquanto vigorar o Convênio ICMS 153/04, por opção do estabelecimento 
 
 > **Nota:**
 
-> VI - Prorrogado pelo Convênio ICMS 226/23, até 30.04.26.
+> VI - Prorrogado pelo Convênio ICMS 20/26, até 31.12.26.
 
 a) em 58,824% (cinquenta e oito inteiros e oitocentos e vinte e quatro milésimos por cento) nas operações sujeitas a 17% (dezessete por cento);
 
@@ -1745,7 +1749,7 @@ d) outros objetos de cristal de chumbo, classificados na subposição 7013.91.
 
 > **Nota:**
 
-> VIII - Prorrogado pelo Convênio ICMS 226/23, até 30.04.26.
+> VIII - Prorrogado pelo Convênio ICMS 20/26, até 31.12.26.
 
 IX – enquanto vigorar o Convênio ICMS 23/05, nas saídas do produto denominado “laboratório didático móvel”, acompanhado de kit de materiais básicos, classificado no código 3822.00.90 da NBM-SH/NCM, nos seguintes percentuais:
 
@@ -1839,7 +1843,7 @@ Art. 9º Enquanto vigorar o Convênio ICMS 52/91, fica concedida redução da ba
 
 > **Nota:**
 
-> Art. 9º - Prorrogado pelo Convênio ICMS 226/23, até 30.04.26.
+> Art. 9º - Prorrogado pelo Convênio ICMS 10/26, até 31.12.26.
 
 I - com máquinas, aparelhos e equipamentos industriais relacionados no Anexo 1, Seção VI (Convênios ICMS 87/91, 13/92, 21/97, 23/98, 05/99, 01/00 e 10/01):
 
@@ -2502,6 +2506,10 @@ b) a programas sociais relacionados à universalização de disponibilização d
 c) à política energética do Estado, em especial a construção de subestações, de linhas de transmissão e de linhas e redes de distribuição de energia elétrica; ou
 
 d) a ações de segurança energética de hospitais, penitenciárias e órgãos da administração pública.
+
+> **Nota:**
+
+> IV - Prorrogado pelo Convênio ICMS 136/25, até 31.12.26.
 
 XLVII – aos estabelecimentos industrializadores, em montante igual ao que resultar da aplicação do percentual de 10% (dez por cento) sobre o valor das saídas sujeitas à alíquota de 12% (doze por cento), destinadas a contribuintes localizados nos Estados de Minas Gerais e do Rio de Janeiro, das seguintes mercadorias de produção própria (art. 5º da Lei nº 19.052, de 2024):
 
@@ -6854,6 +6862,10 @@ IV – não será exigido o estorno de crédito de que trata o art. 36 do Regula
 (Convênio ICMS 179/2021 – Medida Provisória nº 250, de 2022, art. 7º)
 Art. 233-A. Enquanto vigorar o Convênio ICMS nº 179, de 6 de outubro de 2021, do CONFAZ, ficam concedidos os seguintes benefícios fiscais:
 
+> **Nota:**
+
+> Art. 233-A - Prorrogado pelo Convênio ICMS 021/26, até 31.12.26.
+
 I – isenção do imposto incidente nas operações de fornecimento de energia elétrica destinadas a consumo por hospital integrante do Sistema Único de Saúde (SUS), situado neste Estado:
 
 a) classificado como entidade beneficente de assistência social, nos termos da legislação federal aplicável; ou
@@ -7829,6 +7841,8 @@ III – não é cumulativo com qualquer outro crédito presumido previsto na leg
 § 6º Os tratamentos tributários diferenciados previstos neste artigo aplicam-se na hipótese de novos investimentos efetuados pelo estabelecimento beneficiário na implantação ou ampliação de empreendimento com vistas à fabricação de outras classes e tipos de veículos.
 
 § 7º O regime especial poderá autorizar a aplicação do diferimento de que trata a alínea “f” do inciso I do caput deste artigo às aquisições de energia elétrica, em decorrência do comportamento da economia, à vista de justificativas apresentadas pelo beneficiário.
+
+§ 8º A concessão dos tratamentos tributários diferenciados de que trata este artigo fica condicionada ao compromisso do estabelecimento beneficiário de realizar investimento mínimo de R$ 100.000.000,00 (cem milhões de reais) em território catarinense, no prazo máximo de 3 (três) anos, contado da data do deferimento da concessão do tratamento tributário.
 
 Art. 261. Mediante regime especial autorizado pelo Secretário de Estado da Fazenda, fica concedido diferimento do pagamento do imposto ao estabelecimento fabricante do sistema automotivo denominado powertrain situado neste Estado, observado o disposto nesta Seção:
 
