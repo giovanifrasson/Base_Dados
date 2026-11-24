@@ -1,13 +1,12 @@
 # NFE - Base de conhecimento para a skill MGE-Validacao NFe
 
-Material oficial do Portal Nacional da NF-e (https://www.nfe.fazenda.gov.br/portal/) coletado em 24/11/2026 e convertido para Markdown com a ferramenta PDF-para-Markdown. Apenas a versao vigente de cada documento.
+Material oficial do Portal Nacional da NF-e (https://www.nfe.fazenda.gov.br/portal/) convertido para Markdown com a ferramenta PDF-para-Markdown. Apenas a versao vigente de cada documento. Atualizado automaticamente toda semana; veja `ATUALIZACOES.md`.
 
 - **Fonte primaria:** os PDFs/planilhas do portal. O Markdown pode ter colunas de tabela misturadas; confirme valores criticos no original.
-- Tres arquivos (Manual de Boas Praticas NFC-e, NT 2016.002, NT 2017.001) foram convertidos por pdftotext (sem formatacao).
+- Arquivos marcados no inicio com 'Convertido com pdftotext' nao tem formatacao de titulos.
 - Nao inclui: planilhas de tabelas (exceto CFOP em CSV), schemas XML (ZIP), legislacao estadual (RICMS-SC esta em SKILL/ICMS_SC).
 
 URL bruta: `https://raw.githubusercontent.com/giovanifrasson/Base_Dados/main/SKILL/NFE/Legislacao/<pasta>/<arquivo>`
-
 
 ## 01-Manuais_MOC
 
@@ -121,7 +120,7 @@ URL bruta: `https://raw.githubusercontent.com/giovanifrasson/Base_Dados/main/SKI
 
 | Documento (titulo no portal) | Arquivo |
 |---|---|
-| Tabela de CFOP (pub. 04/09/2026) - colunas indNFe, indDevol, indRetor, indAnula etc. | `Tabela_CFOP_2026-09-04.csv` |
+| Tabela de CFOP - Publicada em 04/09/2026 | `Tabela_CFOP_2026-09-04.csv` |
 
 ## 06-Atos_COTEPE_e_Manual_de_Integracao
 
