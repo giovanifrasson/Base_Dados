@@ -2,6 +2,8 @@
 
 Material oficial do Portal Nacional da NF-e (https://www.nfe.fazenda.gov.br/portal/) convertido para Markdown com a ferramenta PDF-para-Markdown. Apenas a versao vigente de cada documento. Atualizado automaticamente toda semana; veja `ATUALIZACOES.md`.
 
+**Legislação oficial (lida sempre pela skill):** `Legislacao/07-Ajustes_SINIEF/` (texto consolidado do CONFAZ, com vigência e alterações; ver `INDICE.md`) e `Legislacao/08-RICMS-SC_oficial/` (dispositivos do RICMS-SC extraídos do site da SEF/SC); o RICMS-SC completo está em `SKILL/ICMS_SC/Legislacao`.
+
 - **Fonte primaria:** os PDFs/planilhas do portal. O Markdown pode ter colunas de tabela misturadas; confirme valores criticos no original.
 - Arquivos marcados no inicio com 'Convertido com pdftotext' nao tem formatacao de titulos.
 - Nao inclui: planilhas de tabelas (exceto CFOP em CSV), schemas XML (ZIP), legislacao estadual (RICMS-SC esta em SKILL/ICMS_SC).
